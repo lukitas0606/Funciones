@@ -1,0 +1,11 @@
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px;
+}
+body{
+    display: flex;
+    gap: 25px;
+}
